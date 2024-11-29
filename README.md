@@ -46,3 +46,23 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/PrathamSatpute/Role-Based-Access-Control.git
    cd project
+
+
+ScreeShot - 
+Dashboard - 
+![image](https://github.com/user-attachments/assets/d3482e3a-fd78-4c7a-9d74-98a2e46a8350)
+
+User Page - 
+![image](https://github.com/user-attachments/assets/bbc08463-3b17-4351-a0e0-ec8261dd5199)
+
+Role page - 
+![image](https://github.com/user-attachments/assets/9cf50fa2-a8e8-4778-9978-711e730d6623)
+
+Permission Page - 
+![image](https://github.com/user-attachments/assets/5c9f771c-e507-4620-b35d-180978c1ee7a)
+
+Audit Logs - 
+![image](https://github.com/user-attachments/assets/f707283f-f7bb-4031-b070-9a58b5b3e25c)
+
+Settings - 
+![image](https://github.com/user-attachments/assets/038d0bd9-3e94-42ee-901c-677a4c191b8f)
