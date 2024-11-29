@@ -33,6 +33,15 @@
 
 ---
 
+🏗️ Tech Stack
+
+    Frontend: React 18, TypeScript 4.9, Tailwind CSS
+    State Management: Zustand
+    Charts: Chart.js, react-chartjs-2
+    Drag-and-Drop: @dnd-kit/core
+
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites
